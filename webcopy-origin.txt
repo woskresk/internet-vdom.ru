@@ -1,0 +1,128 @@
+Uri: https://internet-vdom.ru/usilenie-sotovoj-svyazi
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\usilenie-sotovoj-svyazi.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/loader.gif
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\loader.gif
+Content Type: image/gif
+
+Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/11mt243f/3upyb.css
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\11mt243f\3upyb.css
+Content Type: text/css
+
+Uri: https://internet-vdom.ru/wp-json/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/xmlrpc.php?rsd
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-includes/wlwmanifest.xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-32x32.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-192x192.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-180x180.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://tlgg.ru/gravt82
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\gravt82.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/internet_vdom.ru/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet_vdom.ru\index.htm
+Content Type: text/html
+
+Uri: https://verstkovo.ru/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\index.htm
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/1e7zqzs6/3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\1e7zqzs6\3upyb.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/mobsbk2f/3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\mobsbk2f\3upyb.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/20c1wwyf/3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\20c1wwyf\3upyb.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.86.2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\wp-postratings\js\postratings-js.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/jquery.mask.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\jquery.mask.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/slick.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\slick.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.formstyler.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.formstyler.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.mCustomScrollbar.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.mCustomScrollbar.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.fancybox.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jqeye.min.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jqeye.min.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU&ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/custom.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://internet-vdom.ru/wp-includes/js/wp-embed.min.js?ver=5.1.9
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.viber.com/ru/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\ru\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=79307596027&text&app_absent=0
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\send\index.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/61083460/1
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\watch\61083460\1.gif
+Content Type: image/gif
+
