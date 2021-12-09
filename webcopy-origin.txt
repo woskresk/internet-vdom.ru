@@ -1,128 +1,904 @@
+Uri: https://internet-vdom.ru/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\index.htm
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/03/img1.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\03\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/03/img2.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\03\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/05/vderevnu-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\05\vderevnu-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/03/img4.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\03\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/03/d474c5fb-b17b-412a-ab7b-a5a33d79982d.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\03\d474c5fb-b17b-412a-ab7b-a5a33d79982d.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/img_92444-e1574853232641.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\img_92444-e1574853232641.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/2.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\2.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/cbb87bfceebe54eecc75a3157c278cfa.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\cbb87bfceebe54eecc75a3157c278cfa.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/4.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\4.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/013366197f70595c48685a5e481eed60.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\013366197f70595c48685a5e481eed60.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/03/img3.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\03\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/loader.gif
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\loader-1.gif
+Content Type: image/gif
+
+Uri: https://internet-vdom.ru/glavnaya/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\glavnaya\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/11mt243f/3upyb.css
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\11mt243f\3upyb-1.css
+Content Type: text/css
+
+Uri: https://internet-vdom.ru/wp-json/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\index.htm-1.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/xmlrpc.php?rsd
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\xmlrpc.php-1.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-includes/wlwmanifest.xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2F
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2F&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-32x32.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-192x192.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-192x192-1.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-180x180.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-180x180-1.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/internet-v-zagorodnyj-dom
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-v-zagorodnyj-dom.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/internet-na-dachu
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-na-dachu.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/dom-1
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\dom-1.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/derevnya-parshino-taruskij-rajon-kaluzhskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\derevnya-parshino-taruskij-rajon-kaluzhskaya-oblast.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/derevnya-alekseevka-naro-fominskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\derevnya-alekseevka-naro-fominskij-rajon-moskovskaya-oblast.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/d-sokolniki-dmitrovskom-rajone-moskovskoj-oblasti
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\d-sokolniki-dmitrovskom-rajone-moskovskoj-oblasti.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/snt-vesna-noginskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\snt-vesna-noginskij-rajon-moskovskaya-oblast.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/portfolio/s-petrovo-dalnee-krasnogorskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\portfolio\s-petrovo-dalnee-krasnogorskij-rajon-moskovskaya-oblast.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/primery-rabot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\primery-rabot.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/tarifs
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\tarifs.html
+Content Type: text/html
+
+Uri: https://tlgg.ru/gravt82
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\gravt82-1.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/internet_vdom.ru/
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet_vdom.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/internet-v-ofis
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-v-ofis.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/videonablyudenie
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\videonablyudenie.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/online-tv
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\online-tv.html
+Content Type: text/html
+
 Uri: https://internet-vdom.ru/usilenie-sotovoj-svyazi
 File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\usilenie-sotovoj-svyazi.html
 Content Type: text/html
 
-Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/loader.gif
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\loader.gif
-Content Type: image/gif
-
-Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/11mt243f/3upyb.css
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\11mt243f\3upyb.css
-Content Type: text/css
-
-Uri: https://internet-vdom.ru/wp-json/
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\index.htm.json
-Content Type: application/json
-
-Uri: https://internet-vdom.ru/xmlrpc.php?rsd
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\xmlrpc.php.xml
-Content Type: text/xml
-
-Uri: https://internet-vdom.ru/wp-includes/wlwmanifest.xml
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\wlwmanifest.xml
-Content Type: application/xml
-
-Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed.json
-Content Type: application/json
-
-Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi&format=xml
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed.xml
-Content Type: text/xml
-
-Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-32x32.png
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-32x32.png
-Content Type: image/png
-
-Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-192x192.png
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-192x192.png
-Content Type: image/png
-
-Uri: https://internet-vdom.ru/wp-content/uploads/2019/10/cropped-favicon-180x180.png
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\10\cropped-favicon-180x180.png
-Content Type: image/png
-
-Uri: https://tlgg.ru/gravt82
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\gravt82.html
-Content Type: text/html
-
-Uri: https://www.instagram.com/internet_vdom.ru/
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet_vdom.ru\index.htm
-Content Type: text/html
-
 Uri: https://verstkovo.ru/
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\index.htm
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\index-1.htm
 Content Type: text/html
 
 Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/1e7zqzs6/3upyb.js
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\1e7zqzs6\3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\1e7zqzs6\3upyb-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/mobsbk2f/3upyb.js
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\mobsbk2f\3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\mobsbk2f\3upyb-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/cache/wpfc-minified/20c1wwyf/3upyb.js
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\20c1wwyf\3upyb.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\cache\wpfc-minified\20c1wwyf\3upyb-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\contact-form-7\includes\js\scripts.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\contact-form-7\includes\js\scripts-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.86.2
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\wp-postratings\js\postratings-js.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\wp-postratings\js\postratings-js-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\jquery\jquery-migrate.min.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\jquery\jquery-migrate.min-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/jquery.mask.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\jquery.mask.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\jquery.mask-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/slick.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\slick.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\slick-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.formstyler.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.formstyler.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.formstyler-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.mCustomScrollbar.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.mCustomScrollbar.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.mCustomScrollbar-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jquery.fancybox.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.fancybox.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jquery.fancybox-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/components/jqeye.min.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jqeye.min.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\components\jqeye.min-1.js
 Content Type: application/javascript
 
 Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU&ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\2.1\json.txt
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\2.1\json-1.txt
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/js/custom.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\custom.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\js\custom-1.js
 Content Type: application/javascript
 
 Uri: https://internet-vdom.ru/wp-includes/js/wp-embed.min.js?ver=5.1.9
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\wp-embed.min.js
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-includes\js\wp-embed.min-1.js
 Content Type: application/javascript
 
+Uri: https://internet-vdom.ru/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Light.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Thin.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Thin.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Regular.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Black.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Medium.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/Roboto-Bold.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\Roboto-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Bold.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Regular.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/RobotoCondensed-Light.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\RobotoCondensed-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.eot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.eot?
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.woff2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.ttf
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/BebasNeueBold.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\BebasNeueBold.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/icomoon.eot?vfisk2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/icomoon.ttf?vfisk2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\icomoon-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/icomoon.woff?vfisk2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/icomoon.svg?vfisk2
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/icon/logo-verstkovo.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\icon\logo-verstkovo.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/slide1.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img1.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img2.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img3.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img4.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/pict.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\pict.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img9.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img9.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img10.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img10.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img11.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img11.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img12.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img12.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img13.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img13.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/img14.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\img14.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/bg-in.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\bg-in.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/form-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\form-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/reviews-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\reviews-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/gos.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\gos.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/cctv-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\cctv-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/video1.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\video1.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/video2.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\video2.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/video3.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\video3.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/video4.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\video4.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/tv-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\tv-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/net-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\net-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/tarifs-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\tarifs-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/examples-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\examples-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/price-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\price-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/sotovaya-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\sotovaya-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/video-dacha-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\video-dacha-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/vkotedji-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\vkotedji-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/vderevnu-bg.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\vderevnu-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/calculator/OpenSansRegular.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\calculator\OpenSansRegular.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/fonts/calculator/OpenSansBold.woff
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\fonts\calculator\OpenSansBold.woff
+Content Type: application/font-woff
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_price.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_price.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_calc.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_calc.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_excel.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_excel.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_i2.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_i2.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_help.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_help.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_help_grey.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_help_grey.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_close.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_close.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_cam_out.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_cam_out.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_cam_in.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_cam_in.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_film.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_film.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_minus.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_minus.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/icon_plus.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\icon_plus.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/ico_unchecked.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\ico_unchecked.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/wp-content/themes/dom-internet/assets/img/calculator/ico_checked.svg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\themes\dom-internet\assets\img\calculator\ico_checked.svg
+Content Type: image/svg+xml
+
+Uri: https://internet-vdom.ru/internet-v-zagorodnyj-dom/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-v-zagorodnyj-dom\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-v-zagorodnyj-dom
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-v-zagorodnyj-dom&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/internet-na-dachu/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-na-dachu\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-na-dachu
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-na-dachu&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/v-derevnyu
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\v-derevnyu.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/v-derevnyu/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\v-derevnyu\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fv-derevnyu
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fv-derevnyu&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/privacy-policy
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\privacy-policy.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/privacy-policy/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\privacy-policy\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fprivacy-policy
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fprivacy-policy&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fdom-1
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fdom-1&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fderevnya-parshino-taruskij-rajon-kaluzhskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fderevnya-parshino-taruskij-rajon-kaluzhskaya-oblast&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fderevnya-alekseevka-naro-fominskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fderevnya-alekseevka-naro-fominskij-rajon-moskovskaya-oblast&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-content/ewww/lazy/placeholder-300x169.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\ewww\lazy\placeholder-300x169.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-300x169.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-768x432.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-1024x576.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931.jpg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\smart-tv-wi-fi-3d-bluetooth-ultra-hd-1-10347931.jpg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fd-sokolniki-dmitrovskom-rajone-moskovskoj-oblasti
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fd-sokolniki-dmitrovskom-rajone-moskovskoj-oblasti&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fsnt-vesna-noginskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fsnt-vesna-noginskij-rajon-moskovskaya-oblast&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-content/ewww/lazy/placeholder-300x194.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\ewww\lazy\placeholder-300x194.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/image241-300x194.jpeg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\image241-300x194.jpeg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/image241-768x497.jpeg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\image241-768x497.jpeg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2019/11/image241.jpeg
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2019\11\image241.jpeg
+Content Type: image/jpeg
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fs-petrovo-dalnee-krasnogorskij-rajon-moskovskaya-oblast
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fportfolio%2Fs-petrovo-dalnee-krasnogorskij-rajon-moskovskaya-oblast&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/rozetochnyj-povtoritel-wi-fi-signala
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\rozetochnyj-povtoritel-wi-fi-signala.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Frozetochnyj-povtoritel-wi-fi-signala
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Frozetochnyj-povtoritel-wi-fi-signala&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fprimery-rabot
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fprimery-rabot&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Ftarifs
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Ftarifs&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
 Uri: https://www.viber.com/ru/
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\ru\index.htm
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\ru\index-1.htm
 Content Type: text/html
 
 Uri: https://api.whatsapp.com/send/?phone=79307596027&text&app_absent=0
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\send\index.htm
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\send\index-1.htm
 Content Type: text/html
 
+Uri: https://internet-vdom.ru/internet-v-ofis/feed
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\internet-v-ofis\feed.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-v-ofis
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Finternet-v-ofis&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fvideonablyudenie
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fvideonablyudenie&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://docs.google.com/spreadsheets/d/1aAL68Ca-idB3AT3Ktp86BGSFJoeXVmqdK9Kzpq7LcbQ/edit?usp=sharing
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\spreadsheets\d\1aAL68Ca-idB3AT3Ktp86BGSFJoeXVmqdK9Kzpq7LcbQ\edit.html
+Content Type: text/html
+
+Uri: https://internet-vdom.ru/wp-content/ewww/lazy/placeholder-949x530.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\ewww\lazy\placeholder-949x530.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2020/01/screenshot_8.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2020\01\screenshot_8.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2020/01/screenshot_8-300x168.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2020\01\screenshot_8-300x168.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-content/uploads/2020/01/screenshot_8-768x429.png
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-content\uploads\2020\01\screenshot_8-768x429.png
+Content Type: image/png
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fonline-tv
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fonline-tv&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://internet-vdom.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Finternet-vdom.ru%2Fusilenie-sotovoj-svyazi&format=xml
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
 Uri: https://mc.yandex.ru/watch/61083460/1
-File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\watch\61083460\1.gif
+File Name: C:\Users\ALFA\Desktop\Сайты\internet-vdom.ru\watch\61083460\1-1.gif
 Content Type: image/gif
 
